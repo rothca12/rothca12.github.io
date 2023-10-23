@@ -101,7 +101,7 @@ body {
     color:#696969;  
 }   
   .list-content :hover{
-    color:yellow;
+    color:red;
 }
   .list-content{
     float:left;
