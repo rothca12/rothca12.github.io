@@ -28,7 +28,7 @@ body {
   height:100%;
 }
 .container {
-  min-height:600px;
+ min-height:95%%;;
 } 
 .profile {
   background-color:pink;
@@ -123,8 +123,7 @@ body {
     width:60%;
     float:left;
     color:blue;
-    min-height:100%;
-    min-height:600px;
+   min-height:95%%;
     margin-left: 5px;
     border-style:solid;
  }
